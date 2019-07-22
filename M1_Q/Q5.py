@@ -1,4 +1,4 @@
-"""a program to print the Fibonacci series up to the number 34. """
+""" program to print the Fibonacci series up to the number 34. """
 n=34
 a=0
 b=1

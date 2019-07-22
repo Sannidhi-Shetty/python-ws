@@ -1,4 +1,4 @@
-#Write a progr1.	Write a program to accept a number and determine whether it is a prime number or not.
+#Write a program to accept a number and determine whether it is a prime number or not.
 #am to accept a number and determine whether it is a prime number or not.
 def is_prime(N):
  if N<2:

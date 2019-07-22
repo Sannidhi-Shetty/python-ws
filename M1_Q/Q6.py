@@ -1,5 +1,5 @@
 """a program to accept a number from the user; then display the reverse of the entered number."""
-N=int(input("Enter the number:"))
+N=int(input("Enter any number:"))
 print(str(N)[::-1])
 rev=0
 temp=N
