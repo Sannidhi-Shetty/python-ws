@@ -1,4 +1,4 @@
-"""a program to print a pattern"""
+"""program to print a pattern"""
 max=4
 for i in range(1,max+1):
     for j in range(max,i,-1):

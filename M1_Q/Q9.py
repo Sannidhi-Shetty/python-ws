@@ -3,7 +3,7 @@ inp = input("Enter any string:")
 res = ' '
 for i in inp:
     temp = int(i)
-    temp =(temp+1)%10
+    temp = (temp+1)%10
     res += str(temp)
 
 print(res)
